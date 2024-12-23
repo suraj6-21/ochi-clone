@@ -1,3 +1,19 @@
+@font-face {
+    font-family: 'FoundersGrotesk';
+    src: url('/public/Font/FoundersGrotesk-Semibold.woff2') format('woff2'),
+         url('/public/Font/FoundersGrotesk-Semibold.woff') format('woff'),
+         url('/public/Font/NeueMontreal-Regular.woff2') format('woff2'),
+         url('/public/Font/NeueMontreal-Regular.woff') format('woff');
+    font-weight: normal; 
+    font-style: normal; 
+}
+@font-face {
+    font-family:'NeueMontreal';
+    src: url('/public/Font/NeueMontreal-Regular.woff2') format('woff2'),
+         url('/public/Font/NeueMontreal-Regular.woff') format('woff');
+    font-weight: normal; 
+    font-style: normal; 
+}
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
