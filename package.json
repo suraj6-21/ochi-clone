@@ -1,17 +1,13 @@
-"homepage": "https://<suraj6-21>.github.io/<ruraj6-21-clone>",
-"scripts": {
-  "predeploy": "npm run build",
-  "deploy": "gh-pages -d build"
-}
-
-
 
 {
+  "homepage": "https://suraj6-21.github.io/suraj6-21/ochi-clone",
   "name": "ochi",
   "private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "dev": "vite",
     "build": "vite build",
     "lint": "eslint .",
