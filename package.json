@@ -1,6 +1,6 @@
 {
   "name": "ochi-clone",
-  "version": "1.0.0",
+  "version": "0.0.0",
   "description": "A clone of the Ochi application",
   "homepage": "https://suraj6-21.github.io/ochi-clone",
   "main": "index.js",
