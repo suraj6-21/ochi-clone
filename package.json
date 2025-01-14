@@ -1,17 +1,32 @@
 {
-  "homepage": "https://suraj6-21.github.io/ochi-clone",
   "name": "ochi-clone",
-  "private": true,
-  "version": "0.0.0",
+  "version": "1.0.0",
+  "description": "A clone of the Ochi application",
+  "homepage": "https://suraj6-21.github.io/ochi-clone",
+  "main": "index.js",
   "type": "module",
   "scripts": {
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
+    "deploy": "gh-pages -d dist",
     "dev": "vite",
     "build": "vite build",
     "lint": "eslint .",
     "preview": "vite preview"
   },
+  "author": "Your Name",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/suraj6-21/ochi-clone.git"
+  },
+  "bugs": {
+    "url": "https://github.com/suraj6-21/ochi-clone/issues"
+  },
+  "keywords": [
+    "ochi",
+    "clone",
+    "application"
+  ],
   "dependencies": {
     "framer-motion": "^11.12.0",
     "gsap": "^3.12.5",
@@ -37,3 +52,7 @@
     "vite": "^6.0.1"
   }
 }
+
+
+
+
