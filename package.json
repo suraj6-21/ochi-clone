@@ -16,15 +16,8 @@
     "lint": "eslint .",
     "preview": "vite preview"
   },
-  "author": "Your Name",
-  "license": "MIT",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/suraj6-21/ochi-clone.git"
-  },
-  "bugs": {
-    "url": "https://github.com/suraj6-21/ochi-clone/issues"
-  },
+ 
+ 
   "keywords": [
     "ochi",
     "clone",
